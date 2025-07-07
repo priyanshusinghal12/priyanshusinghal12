@@ -53,15 +53,6 @@
 
 ---
 
-### 💼 Currently Working On
-
-🧩 **LangChain + Docker DevOps Assistant**  
-A developer tool that explains your `Dockerfile`, suggests optimizations, and generates new ones using LangChain agents, Hadolint, and GitHub APIs.   
-*(Still in development — stay tuned)*
-
----
----
-
 ### 🔨 Notable Projects
 
 🔹 **[Footprints Bot](https://footprints-bot.vercel.app/)** — AI chatbot to automate preschool admission queries for Footprints’ 170+ centers in India  
