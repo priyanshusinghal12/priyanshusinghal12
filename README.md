@@ -61,32 +61,38 @@ Bonus: Natural language to Docker Compose conversion!
 *(Still in development — stay tuned)*
 
 ---
+---
 
 ### 🔨 Notable Projects
 
-🔹 **[Footprints Bot](https://footprints-bot.vercel.app/)** — AI-powered admission assistant for India’s largest preschool  
-> FastAPI • GPT-4o • Docker • MongoDB • LangChain • React  
+🔹 **[Footprints Bot](https://footprints-bot.vercel.app/)** — AI chatbot to automate preschool admission queries for Footprints’ 170+ centers in India  
+> **FastAPI • GPT-4o • Docker • MongoDB • LangChain • React**  
 > 🧠 Multi-turn reasoning, context memory, emoji/voice inputs — reduced fallback by 65%
 
-🔹 **[ReqCheck](https://req-check.vercel.app/)** — Major requirement checker with transcript parser  
-> FastAPI • Firebase • TailwindCSS • React • Framer Motion  
+🔹 **[ReqCheck](https://req-check.vercel.app/)** — Web app to verify degree progress and run What-If simulations from unofficial transcripts  
+> **FastAPI • Firebase • TailwindCSS • React • Framer Motion**  
 > 📄 "What-If" planner & real-time degree auditing with 4.5⭐️ UX score
 
-🔹 **[India Economic Forecasting](https://github.com/priyanshusinghal12/gdpforecasting)**  
-> Pandas • ARIMA • Prophet • Plotly  
-> 📈 Modeled GDP, unemployment, and inflation with robust ML pipelines
+🔹 **[India Economic Forecasting](https://github.com/priyanshusinghal12/gdpforecasting)** — ML pipeline to forecast India’s GDP, unemployment, and inflation  
+> **Pandas • ARIMA • Prophet • Plotly**  
+> 📈 Modeled key economic trends using statistical forecasting techniques
 
 ---
 
 ### 🧪 Previously @ Work
 
 🧠 **Data Scientist Intern @ Agriculture & Agri-Food Canada**  
-• Built XGBoost models on remote sensing data with 85%+ accuracy  
-• Deployed scalable ML pipelines using MLflow, Docker, AWS Lambda  
+> *Built ML pipelines to forecast soil risk and crop yield from geospatial and satellite data*  
+> **XGBoost • Pandas • SQL • MLflow • Docker • AWS Lambda • Streamlit**  
+> • Developed end-to-end geospatial ML models with 85%+ accuracy  
+> • Containerized pipelines and deployed live inference endpoints with Streamlit dashboards  
 
 ⚙️ **Software Developer @ Pragma Apps**  
-• YOLOv5 object detection in NestJS backend  
-• OCR, Azure deployment, Swagger+Postman tested APIs  
+> *Developed ML-powered features for a cloud video analytics platform*  
+> **NestJS • React • YOLOv5 • Postman • Azure • TensorFlow • Flask**  
+> • Built real-time object detection backend with 92% accuracy using YOLOv5  
+> • Integrated OCR modules and deployed REST APIs for automated document classification  
+
 
 ---
 
