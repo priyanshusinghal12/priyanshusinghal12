@@ -66,7 +66,7 @@
 
 ---
 
-### 🧪 Previously @ Work
+### 💼 Experience
 
 🧠 **Data Scientist Intern @ Agriculture & Agri-Food Canada**  
 > *Built ML pipelines to forecast soil risk and crop yield from geospatial and satellite data*  
