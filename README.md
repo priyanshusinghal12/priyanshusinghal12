@@ -66,16 +66,13 @@ Bonus: Natural language to Docker Compose conversion!
 ### 🔨 Notable Projects
 
 🔹 **[Footprints Bot](https://footprints-bot.vercel.app/)** — AI chatbot to automate preschool admission queries for Footprints’ 170+ centers in India  
-> **FastAPI • GPT-4o • Docker • MongoDB • LangChain • React**  
-> 🧠 Multi-turn reasoning, context memory, emoji/voice inputs — reduced fallback by 65%
+> **FastAPI • GPT-4o • Docker • MongoDB • LangChain • React • Prompt Engineering (etc.)**  
 
-🔹 **[ReqCheck](https://req-check.vercel.app/)** — Web app to verify degree progress and run What-If simulations from unofficial transcripts  
-> **FastAPI • Firebase • TailwindCSS • React • Framer Motion**  
-> 📄 "What-If" planner & real-time degree auditing with 4.5⭐️ UX score
+🔹 **[ReqCheck](https://req-check.vercel.app/)** — Web app to verify degree progress and run What-If simulations from unofficial transcripts. Below is some technologies used. 
+> **FastAPI • Firebase • TailwindCSS • React • Framer Motion (etc.)**  
 
 🔹 **[India Economic Forecasting](https://github.com/priyanshusinghal12/gdpforecasting)** — ML pipeline to forecast India’s GDP, unemployment, and inflation  
-> **Pandas • ARIMA • Prophet • Plotly**  
-> 📈 Modeled key economic trends using statistical forecasting techniques
+> **Pandas • ARIMA • Prophet • Plotly (etc.)**  
 
 ---
 
@@ -83,15 +80,11 @@ Bonus: Natural language to Docker Compose conversion!
 
 🧠 **Data Scientist Intern @ Agriculture & Agri-Food Canada**  
 > *Built ML pipelines to forecast soil risk and crop yield from geospatial and satellite data*  
-> **XGBoost • Pandas • SQL • MLflow • Docker • AWS Lambda • Streamlit**  
-> • Developed end-to-end geospatial ML models with 85%+ accuracy  
-> • Containerized pipelines and deployed live inference endpoints with Streamlit dashboards  
+> **XGBoost • Pandas • Google Earth Engine • GDAL • QGIS • Geopandas • Python (etc.)**  
 
 ⚙️ **Software Developer @ Pragma Apps**  
 > *Developed ML-powered features for a cloud video analytics platform*  
-> **NestJS • React • YOLOv5 • Postman • Azure • TensorFlow • Flask**  
-> • Built real-time object detection backend with 92% accuracy using YOLOv5  
-> • Integrated OCR modules and deployed REST APIs for automated document classification  
+> **NestJS • React • YOLOv5 • Postman • Azure • TensorFlow • Flask (etc.)**  
 
 
 ---
