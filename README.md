@@ -67,7 +67,7 @@ A developer tool that explains your `Dockerfile`, suggests optimizations, and ge
 🔹 **[Footprints Bot](https://footprints-bot.vercel.app/)** — AI chatbot to automate preschool admission queries for Footprints’ 170+ centers in India  
 > **FastAPI • GPT-4o • Docker • MongoDB • LangChain • React • Prompt Engineering (etc.)**  
 
-🔹 **[ReqCheck](https://req-check.vercel.app/)** — Web app to verify degree progress and run What-If simulations from unofficial transcripts. Below is some technologies used. 
+🔹 **[ReqCheck](https://req-check.vercel.app/)** — Web app to verify degree progress & run What-If simulations from unofficial transcripts.
 > **FastAPI • Firebase • TailwindCSS • React • Framer Motion (etc.)**  
 
 🔹 **[India Economic Forecasting](https://github.com/priyanshusinghal12/gdpforecasting)** — ML pipeline to forecast India’s GDP, unemployment, and inflation  
