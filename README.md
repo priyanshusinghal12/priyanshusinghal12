@@ -56,8 +56,7 @@
 ### 💼 Currently Working On
 
 🧩 **LangChain + Docker DevOps Assistant**  
-A developer tool that explains your `Dockerfile`, suggests optimizations, and generates new ones using LangChain agents, Hadolint, and GitHub APIs.  
-Bonus: Natural language to Docker Compose conversion!  
+A developer tool that explains your `Dockerfile`, suggests optimizations, and generates new ones using LangChain agents, Hadolint, and GitHub APIs.   
 *(Still in development — stay tuned)*
 
 ---
