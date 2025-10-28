@@ -67,6 +67,9 @@
 ---
 
 ### 💼 Experience
+🤖 AI Software Engineer @ Tallgeese AI (Palo Alto, CA)
+> *Architected RAG pipelines & multimodal AI systems powering document intelligence agents*
+> **LangChain • ChromaDB • ColQwen2 • Docker • AWS • FastAPI • MCP • Swift/C++ • Flask • ReactJS**
 
 🧠 **Data Scientist Intern @ Agriculture & Agri-Food Canada**  
 > *Built ML pipelines to forecast soil risk and crop yield from geospatial and satellite data*  
