@@ -106,14 +106,14 @@
 ---
 
 ### 💼 Experience
-🤖 AI Software Engineer @ Dialpad Inc (Toronto, ON)
+🧑‍💻 AI Software Engineer @ Dialpad Inc (Toronto, ON)
 > **In Progress**
 
 🤖 AI Software Engineer @ Tallgeese AI (Palo Alto, CA)
 > *Architected RAG pipelines & multimodal AI systems powering document intelligence agents*
 > **LangChain • ChromaDB • ColQwen2 • Docker • AWS • FastAPI • MCP • Swift/C++ • Flask • ReactJS**
 
-🧠 **Data Scientist Intern @ Agriculture & Agri-Food Canada**  
+🧠 **ML Engineer @ Agriculture & Agri-Food Canada**  
 > *Built ML pipelines to forecast soil risk and crop yield from geospatial and satellite data*  
 > **XGBoost • Pandas • Google Earth Engine • GDAL • QGIS • Geopandas • Python (etc.)**  
 
