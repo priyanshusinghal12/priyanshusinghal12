@@ -107,7 +107,6 @@
 
 ### 💼 Experience
 🤖 AI Software Engineer @ Dialpad Inc (Toronto, ON)
-> *In Progress*
 > **In Progress**
 
 🤖 AI Software Engineer @ Tallgeese AI (Palo Alto, CA)
