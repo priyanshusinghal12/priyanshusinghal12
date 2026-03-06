@@ -46,9 +46,6 @@
 ![Embeddings](https://img.shields.io/badge/-Embeddings-black?style=flat-square)
 ![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-black?style=flat-square)
 ![Agents](https://img.shields.io/badge/-AI%20Agents-black?style=flat-square)
-![Tool Use](https://img.shields.io/badge/-Tool%20Calling-black?style=flat-square)
-![Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-black?style=flat-square)
-![Guardrails](https://img.shields.io/badge/-LLM%20Guardrails-black?style=flat-square)
 ![Prompt Optimization](https://img.shields.io/badge/-Prompt%20Optimization-black?style=flat-square)
 
 #### AI Platforms & Infrastructure
@@ -57,14 +54,9 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
 ![Kubeflow](https://img.shields.io/badge/-Kubeflow-black?style=flat-square)
-![ML Pipelines](https://img.shields.io/badge/-ML%20Pipelines-black?style=flat-square)
-![Feature Stores](https://img.shields.io/badge/-Feature%20Stores-black?style=flat-square)
-![Model Serving](https://img.shields.io/badge/-Model%20Serving-black?style=flat-square)
-![Model Monitoring](https://img.shields.io/badge/-Model%20Monitoring-black?style=flat-square)
 
 #### Vector Databases & Retrieval
 ![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat-square)
-![Weaviate](https://img.shields.io/badge/-Weaviate-black?style=flat-square)
 ![FAISS](https://img.shields.io/badge/-FAISS-black?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
