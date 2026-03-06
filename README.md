@@ -106,6 +106,10 @@
 ---
 
 ### 💼 Experience
+🤖 AI Software Engineer @ Dialpad Inc (Toronto, ON)
+> *In Progress*
+> **In Progress**
+
 🤖 AI Software Engineer @ Tallgeese AI (Palo Alto, CA)
 > *Architected RAG pipelines & multimodal AI systems powering document intelligence agents*
 > **LangChain • ChromaDB • ColQwen2 • Docker • AWS • FastAPI • MCP • Swift/C++ • Flask • ReactJS**
