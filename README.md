@@ -37,6 +37,45 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
 ![MLflow](https://img.shields.io/badge/-MLflow-black?style=flat-square)
 
+#### AI / LLM Engineering
+![RAG](https://img.shields.io/badge/-RAG-black?style=flat-square)
+![LangChain](https://img.shields.io/badge/-LangChain-black?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-black?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-black?style=flat-square)
+![Vector Databases](https://img.shields.io/badge/-Vector%20Databases-black?style=flat-square)
+![Embeddings](https://img.shields.io/badge/-Embeddings-black?style=flat-square)
+![Semantic Search](https://img.shields.io/badge/-Semantic%20Search-black?style=flat-square)
+![Agents](https://img.shields.io/badge/-AI%20Agents-black?style=flat-square)
+![Tool Use](https://img.shields.io/badge/-Tool%20Calling-black?style=flat-square)
+![Evaluation](https://img.shields.io/badge/-LLM%20Evaluation-black?style=flat-square)
+![Guardrails](https://img.shields.io/badge/-LLM%20Guardrails-black?style=flat-square)
+![Prompt Optimization](https://img.shields.io/badge/-Prompt%20Optimization-black?style=flat-square)
+
+#### AI Platforms & Infrastructure
+![Google Cloud](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud)
+![Vertex AI](https://img.shields.io/badge/-Vertex%20AI-black?style=flat-square&logo=googlecloud)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat-square&logo=kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-black?style=flat-square&logo=terraform)
+![Kubeflow](https://img.shields.io/badge/-Kubeflow-black?style=flat-square)
+![ML Pipelines](https://img.shields.io/badge/-ML%20Pipelines-black?style=flat-square)
+![Feature Stores](https://img.shields.io/badge/-Feature%20Stores-black?style=flat-square)
+![Model Serving](https://img.shields.io/badge/-Model%20Serving-black?style=flat-square)
+![Model Monitoring](https://img.shields.io/badge/-Model%20Monitoring-black?style=flat-square)
+
+#### Vector Databases & Retrieval
+![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat-square)
+![Weaviate](https://img.shields.io/badge/-Weaviate-black?style=flat-square)
+![FAISS](https://img.shields.io/badge/-FAISS-black?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-black?style=flat-square)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
+
+#### LLM Providers
+![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square)
+![Anthropic](https://img.shields.io/badge/-Anthropic-black?style=flat-square)
+![Gemini](https://img.shields.io/badge/-Gemini-black?style=flat-square)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)
+![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat-square)
+
 #### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
